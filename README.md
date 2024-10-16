@@ -13,7 +13,7 @@ Static Web Apps,azure health bot
 # Azure Link
 https://nice-forest-05fcab100.2.azurestaticapps.net
 # Github Page Link
-https://github.com/BHOOMIREDDYBHARGAVREDDY/project22
+https://github.com/bhargav5d3/Dental_Website
 # Project Demo Video URL
 https://youtu.be/mj_8FEwc0yg
 # Screenshot of Website
